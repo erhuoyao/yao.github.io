@@ -113,6 +113,14 @@
             </div>
         </div>
     </section>
+    <style>
+    .top-section::before, .top-section-content::before {
+    content: none; /* 移除伪元素遮罩 */
+    }
+    .top-section-content {
+    background: none !important; /* 确保背景无任何遮罩 */
+    }
+    </style>
     <!-- Top Section -->
 
     <!-- Photo -->
