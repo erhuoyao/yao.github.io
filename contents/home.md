@@ -1,16 +1,23 @@
 
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am Yao Wang, a visiting PhD student from Zhejiang University between Sep 2024-Sep 2025. Prior to Zhejiang university and Nus,i received a MS in hunan university and a BS in Northwestern Polytechnical University.  
+My research interests focuses on Human-AI in design activites. i am interested in:
+1) thinking about how to design creativity support tools that can help designers develop domain expertise.
+2) explores opportunities for complementary partnership between human designers and AI to enable effective and human-centred design.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### Research interests
+Decision Making In Design Activities; Human-AI teammates Collaborative In Design Evaluation Stage; Designer’s Behaviour and Psychology Experiment; Designers And AI Teamwork; Consumer Product Preferences; Product Aesthetic And Style Assessment;
 
 #### Email
-sli[at]cumt.edu.cn
+12121183@zju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+ph.d., Zhejiang university，2021-2025
+M.E., hunan university, 2017-2020
+B.E., Northwestern Polytechnical University，2013—2027.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### Work experience
+User Experience Designer   Full Time Staff   Hikvision Company  Jun.2020-Sep.2021 
+Interaction Designer  Internship  Tencent company  Jun.2019-Sep.2019
+Interaction Designer  Internship  Xiaomi company  Dec.2018-May.2019
