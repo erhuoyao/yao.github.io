@@ -15,6 +15,6 @@ Decision Making In Design Activities; Human-AI teammates Collaborative In Design
 - B.E., Northwestern Polytechnical University，2013—2027.
 
 #### Work experience
-User Experience Designer   Full Time Staff   Hikvision Company  Jun.2020-Sep.2021 
-Interaction Designer  Internship  Tencent company  Jun.2019-Sep.2019
-Interaction Designer  Internship  Xiaomi company  Dec.2018-May.2019
+- User Experience Designer  Full Time Staff   Hikvision Company  Jun.2020-Sep.2021 
+- Interaction Designer  Internship  Tencent company  Jun.2019-Sep.2019
+- Interaction Designer  Internship  Xiaomi company  Dec.2018-May.2019
