@@ -1,6 +1,3 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 I am Yao Wang, a visiting PhD student from Zhejiang University between Sep 2024-Sep 2025. Prior to Zhejiang university and Nus,i received a MS in hunan university and a BS in Northwestern Polytechnical University.  
 My research interests focuses on Human-AI in design activites. i am interested in:
 1) thinking about how to design creativity support tools that can help designers develop domain expertise.
