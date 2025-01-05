@@ -13,9 +13,9 @@ Decision Making In Design Activities; Human-AI teammates Collaborative In Design
 12121183@zju.edu.cn
 
 #### Education
-ph.d., Zhejiang university，2021-2025
-M.E., hunan university, 2017-2020
-B.E., Northwestern Polytechnical University，2013—2027.
+- ph.d., Zhejiang university，2021-2025
+- M.E., hunan university, 2017-2020
+- B.E., Northwestern Polytechnical University，2013—2027.
 
 #### Work experience
 User Experience Designer   Full Time Staff   Hikvision Company  Jun.2020-Sep.2021 
